@@ -1,21 +1,18 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Karan Data\\Practice\\Dotnet Core\\MVC\\BookListMVC\\BookListMVC\\BookListMVC.csproj": {}
+    "D:\\New folder\\trunk\\BookListMVC\\BookListMVC.csproj": {}
   },
   "projects": {
-    "D:\\Karan Data\\Practice\\Dotnet Core\\MVC\\BookListMVC\\BookListMVC\\BookListMVC.csproj": {
+    "D:\\New folder\\trunk\\BookListMVC\\BookListMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Karan Data\\Practice\\Dotnet Core\\MVC\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+        "projectUniqueName": "D:\\New folder\\trunk\\BookListMVC\\BookListMVC.csproj",
         "projectName": "BookListMVC",
-        "projectPath": "D:\\Karan Data\\Practice\\Dotnet Core\\MVC\\BookListMVC\\BookListMVC\\BookListMVC.csproj",
+        "projectPath": "D:\\New folder\\trunk\\BookListMVC\\BookListMVC.csproj",
         "packagesPath": "C:\\Users\\karan\\.nuget\\packages\\",
-        "outputPath": "D:\\Karan Data\\Practice\\Dotnet Core\\MVC\\BookListMVC\\BookListMVC\\obj\\",
+        "outputPath": "D:\\New folder\\trunk\\BookListMVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
           "C:\\Users\\karan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -25,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -87,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
